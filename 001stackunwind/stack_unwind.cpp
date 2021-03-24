@@ -33,7 +33,6 @@ int main(){
     {
         puts(s);
     }
-    
     getchar();
     return 0;
 }
